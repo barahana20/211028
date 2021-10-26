@@ -1,0 +1,7 @@
+10 Kim
+20 Lee
+30 Park
+40 Choi
+50 Kang
+60 Hong
+70 Ma

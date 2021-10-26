@@ -1,0 +1,6 @@
+﻿  pb1_1.c
+C:\Users\leejuhyung\source\repos\과제 답지\211006\211006\pb1_1.c(126,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\leejuhyung\source\repos\과제 답지\211006\211006\pb1_1.c(182,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\leejuhyung\source\repos\과제 답지\211006\211006\pb1_1.c(113): warning C4716: 'printToken': 값을 반환해야 합니다.
+C:\Users\leejuhyung\source\repos\과제 답지\211006\211006\pb1_1.c(128): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  211006.vcxproj -> C:\Users\leejuhyung\source\repos\과제 답지\211006\Debug\211006.exe

@@ -1,0 +1,3 @@
+﻿  pb2_2.c
+C:\Users\barah\source\repos\과제 답지\210927\210927\pb2_2.c(29,14): warning C4101: 'm2_mat' :참조되지 않은 지역 변수입니다.
+  210927.vcxproj -> C:\Users\barah\source\repos\과제 답지\210927\Debug\210927.exe
